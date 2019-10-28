@@ -8,3 +8,7 @@ h1{
 	color: white;
 	font-family: Trebuchet MS;
     }
+
+footer{
+   background-image: linear-gradient(to top right, white, gray);
+}
